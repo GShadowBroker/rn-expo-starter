@@ -12,6 +12,10 @@
   },
   "rules": {
     "react/prop-types": "off",
-    "semi": "error"
+    "semi": "error",
+    "no-await-in-loop": "warn",
+    "no-console": "warn",
+    "no-loss-of-precision": "error",
+    "no-unsafe-optional-chaining": "error"
   }
 }
